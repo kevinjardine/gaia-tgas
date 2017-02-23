@@ -42,4 +42,4 @@ Given an isosurface type (hot or bright) as an argument, these scripts will comb
 
 ## License
 
-This code is released into the public domain. Feel free to use it freely.
+This code is released into the public domain. Use it freely.
