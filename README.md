@@ -1,4 +1,4 @@
-This is code to extract isosurface density meshes and related data from the TGAS (Tycho-Gaia Astrometric Solution) dataset from [Gaia DR1](https://www.cosmos.esa.int/web/gaia/dr1).
+This is code to extract isosurface density meshes and related data from the TGAS (Tycho-Gaia Astrometric Solution) dataset released as part of [Gaia DR1](https://www.cosmos.esa.int/web/gaia/dr1).
 
 It uses several Python libraries, including the standard numpy, scipy and matplotlib libraries as well as the Visual Toolkit (vtk) 7.0 library to actually extract and manipulate the isosurfaces using the marching cubes algorithm and the Blender 2.78 embedded Python interpreter to render images.
 
